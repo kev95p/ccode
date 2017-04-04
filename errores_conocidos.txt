@@ -1,0 +1,2 @@
+- Error interno al cerrar el editor, no visible, pero sí existen(A SOLUCIONAR), puntero sin limpiar a lo mejor.
+- Al ejecutar archivos da error con archivos que tienen urls que tienen un espacio (A SOLUCIONAR).

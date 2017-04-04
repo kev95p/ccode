@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/nuevo.png</file>
+        <file>imgs/abrir.png</file>
+        <file>imgs/cerrar.png</file>
+        <file>imgs/buscar.png</file>
+        <file>imgs/info.png</file>
+        <file>imgs/play.png</file>
+        <file>imgs/disk.png</file>
+        <file>imgs/disk_todo.png</file>
+        <file>imgs/folder_add.png</file>
+        <file>imgs/cut.png</file>
+        <file>imgs/page_copy.png</file>
+        <file>imgs/paste_plain.png</file>
+        <file>imgs/arrow_redo.png</file>
+        <file>imgs/arrow_undo.png</file>
+        <file>imgs/logo.png</file>
+        <file>imgs/logo_app.png</file>
+    </qresource>
+</RCC>
